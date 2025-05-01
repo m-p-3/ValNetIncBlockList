@@ -1,0 +1,38 @@
+---
+name: ValNetIncBlocklist
+description: A filter that blocks domains and brands belonging to ValNet Inc.
+homepage: https://github.com/m-p-3/ValNetIncBlocklist
+---
+# WARNING: Remove these first 6 lines if you're NOT using this for uBlacklist as the dashes may interfere with your filter!
+
+# Sourced from https://www.valnetinc.com/our-brands
+# Feel free to contribute by opening an issue in the link above!
+
+*://*.screenrant.com/*
+*://*.movieweb.com/*
+*://*.collider.com/*
+*://*.cbr.com/*
+*://thethings.com/*
+*://*.gamerant.com/*
+*://*.thegamer.com/*
+*://fextralife.com/*
+*://dualshockers.com/*
+*://*.hardcoregamer.com/*
+*://opencritic.com/*
+*://hotcars.com/*
+*://topspeed.com/*
+*://*.carbuzz.com/*
+*://*.simpleflying.com/*
+*://*.thetravel.com/*
+*://*.givemesport.com/*
+*://footballfancast.com/*
+*://footballleagueworld.co.uk/*
+*://*.thesportster.com/*
+*://therichest.com/*
+*://*.backyardboss.com/*
+*://*.androidpolice.com/*
+*://*.xda-developers.com/*
+*://*.pocket-lint.com/*
+*://*.makeuseof.com/*
+*://howtogeek.com/*
+*://*.polygon.com/*
